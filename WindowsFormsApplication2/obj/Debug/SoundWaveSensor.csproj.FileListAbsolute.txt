@@ -1,0 +1,143 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YXD\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\SoundWaveGesture\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\SoundWaveGesture\程序0_前后单双击HMM\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\0课题组\3超声波\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\0课题组\3超声波\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\0课题组\3超声波\SoundWaveGesture\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\YXD\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+C:\Users\YXD\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\YXD\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\YXD\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\Microsoft.DirectX.DirectSound.dll
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\Microsoft.DirectX.dll
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+\\psf\Home\Desktop\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ImageForm.resources
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\Microsoft.DirectX.DirectSound.dll
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\Microsoft.DirectX.dll
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ImageForm.resources
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+\\psf\Home\Desktop\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\Microsoft.DirectX.DirectSound.dll
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\Microsoft.DirectX.dll
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ImageForm.resources
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.MainForm.resources
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\SoundWaveSensor.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TrustInfo.xml
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+\\psf\Home\Desktop\超声波手势\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+\\psf\Home\Documents\Projects\ultrasound_gesture\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\psf\Home\Documents\Projects\ultrasound_gesture\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\psf\Home\Documents\Projects\ultrasound_gesture\超声波\程序0_前后单双击HMM - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
